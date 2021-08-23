@@ -4,7 +4,7 @@ import embed
 
 
 
-TOKEN = "ODc3NDc2MzUyNzg4Mzk4MTUw.YRzLiQ.BmdESQz2gOUv2Nn6g9m8OWKzFOg"
+TOKEN = "ODc3NDc2MzUyNzg4Mzk4MTUw.YRzLiQ.28agD16aZzrvOPFFj-4W3_K8mYM"
 client = commands.Bot(command_prefix="!")
 
 @client.event
